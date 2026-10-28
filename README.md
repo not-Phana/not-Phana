@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I%60m+Phana+kurosaki+or+Kon.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3E_%3C+Hi!+I%60m+Phana+kurosaki+or+Kon.)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://vicons-svg-api.veasnawt.workers.dev/code.svg?color=FFD166&size=52&stroke=1.6" width="52" height="52" alt="Code icon" />
