@@ -73,7 +73,7 @@ I use AI as a collaborator and tutor, but my goal is to understand the work and 
 
 <table>
   <tr>
-    <td width="46" valign="top"><img src="https://vicons-svg-api.veasnawt.workers.dev/brain.svg?color=38BDF8&size=34&stroke=1.6" width="30" height="30" alt="Thinking icon" /></td>
+    <td width="46" valign="top"><img src="https://vicons-svg-api.veasnawt.workers.dev/star.svg?color=38BDF8&size=34&stroke=1.6" width="30" height="30" alt="Thinking icon" /></td>
     <td>
       <strong>ChatGPT — my favorite AI chat</strong><br />
       My go-to partner for brainstorming, learning concepts, planning architecture, and thinking through difficult problems. I value explanations that help me understand, not just copy an answer.
